@@ -1,4 +1,4 @@
-**Modelos en Ciencia de Datos**
+# **Modelos en Ciencia de Datos**
 
 Se trabajó con un dataset que contiene información acerca de personas. El objetivo fue predecir si la persona tiene un salario anual mayor a 50K dólares.
 
